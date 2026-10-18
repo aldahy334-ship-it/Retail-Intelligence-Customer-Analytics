@@ -1,0 +1,14 @@
+# Local source dataset and generated/intermediate data
+*.xlsx
+*.xls
+*.csv
+*.csv.gz
+*.parquet
+clean_output/
+analysis_output/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
